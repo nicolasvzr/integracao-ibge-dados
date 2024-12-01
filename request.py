@@ -1,7 +1,6 @@
 import requests
 import mysql.connector
 from conDB import conexao
-import pandas as pd
 from tabulate import tabulate
 
 nome = 'João'
